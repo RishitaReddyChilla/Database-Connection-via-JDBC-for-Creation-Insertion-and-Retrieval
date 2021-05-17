@@ -28,7 +28,7 @@ public class Main {
              System.out.println("\t_______________________________________________________________________________");
              
              System.out.println("\n\t\tCREATING A TABLE NAMED STUDENT_DETAILS IN THE DATABASE JAVA_TH_STUDENTS");
-             //CREATING TABLE STUDENTS
+             //CREATING TABLE STUDENT_DETAILS
              String sql = "CREATE TABLE STUDENT_DETAILS " + "(name VARCHAR(100) , " + "PHOTO LONGBLOB, "+"register_number VARCHAR(100), " + 
                    "city VARCHAR(100), " + "company_placed VARCHAR(100), " + "salary INTEGER, "+"cgpa FLOAT)"; 
              stmt.executeUpdate(sql);
