@@ -19,7 +19,7 @@ select platform independent from the dropdown menu and download the tar file.
 9. When the dialog box opens Click Add and select the mysql-connector-java-8.0.25.jar file . and select MySQL (Connector/J driver) from Driver drop-down and Click Next.
 10. In the Customize Connection window, replace the Database name with the name we want to give to the db.
 11. Click Test Connection.
-12. Store the Photos in a folder in your system. Change the location in the code as required.
+12. Store the Photos in a folder in your system. Change the location in the code as required. and create an empty folder to retrieve the student photo from database and change the location in the code as required.
 13. Replace the user, password and database name in the code according to phpMyadmin credentials. The default user -'root' and password - '' is used in this java code.
 14. Now, you may build and run the program.
 
