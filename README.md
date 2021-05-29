@@ -16,7 +16,7 @@ select platform independent from the dropdown menu and download the tar file.
 6. Select mysql-connector-java-8.0.12.jar and click open.
 7. Now, Open Windows > services.
 8. On the left window. Right click on databases and click on new connection.
-9. When the dialog box opens Click Add and select the mysql-connector-java-8.0.25.jar file . and select MySQL (Connector/J driver) from Driver drop-down Click Next.
+9. When the dialog box opens Click Add and select the mysql-connector-java-8.0.25.jar file . and select MySQL (Connector/J driver) from Driver drop-down and Click Next.
 10. In the Customize Connection window, replace the Database name with the name we want to give to the db.
 11. Click Test Connection.
 12. Store the Photos in a folder in your system. Change the location in the code as required.
