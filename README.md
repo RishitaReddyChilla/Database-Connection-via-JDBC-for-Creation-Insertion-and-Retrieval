@@ -4,7 +4,7 @@ This is a basic java program to perform the following operations
 2. Insert Records into the table.
 3. Retrieve data from the database
 
-### Steps to follow
+### SETUP
 
 1. Download JDBC Driver for MySQL using the link given below <br/>
 https://dev.mysql.com/downloads/connector/j/ <br/>
