@@ -6,3 +6,9 @@ This is a basic java program to perform the following operations
 
 ### Steps to follow
 
+1. Download JDBC Driver for MySQL using the link given below
+https://dev.mysql.com/downloads/connector/j/
+select platform independent from the dropdown menu and download the tar file.
+2. 
+
+
